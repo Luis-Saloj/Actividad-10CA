@@ -13,7 +13,7 @@ COMUNICACION ASERTIVA ACTIVIDAD 10
 
 ## Propuesta: Implementación de una Herramienta de Gestión de Proyectos
 
-###Problema
+Problema
 
 En los equipos de trabajo, la falta de organización y comunicación provoca retrasos, confusión en tareas y baja productividad.
 
